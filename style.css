@@ -9,6 +9,10 @@ body {
   background-color: #F7F9FF;
 }
 
+.title {
+  text-align: center;
+}
+
 .hero {
   background-color: #F7F9FF;
 }
